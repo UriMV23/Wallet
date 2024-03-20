@@ -8,5 +8,5 @@ data class card(
     val CVV: Number,
     val bank: String,
     val type: String,
-    val balance: Number
+    val balance: Double
 )
